@@ -1,0 +1,2 @@
+// Where is your sword
+db.school.deleteMany({ name: "Holberton school" })
